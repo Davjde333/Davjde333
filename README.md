@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf95b9&height=100&section=header"/>
 
+<p align="center">
+<a href="https://whatsapp.com/channel/0029VaFX9IZIyPtQ7j8Zkt0F"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
+
 ##  👀 HANNO GIÀ VISUALIZZATO IL PROFILO
 <p align="center"><img src="https://profile-counter.glitch.me/{Davide116}/count.svg" alt="Davide116 :: Visitor's Count" /></p>
 
