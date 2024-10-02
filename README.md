@@ -34,15 +34,15 @@
 
 ### 👀 Repository Attive
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Davide116&repo=DavideBot&theme=dark "DavideBot")](https://github.com/Davide116/Davide116)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Davide116&repo=Davide116&theme=dark "Davide116")](https://github.com/Davide116/Davide116)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DqviDev&repo=DqviDev&theme=dark "Davide116")](https://github.com/Davide116/Davide116)
 
 ---
 
 ### 🏆 Github Status 
-![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Davide116&show_icons=true&theme=dark&hide_border=true)
+![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=DqviDev&show_icons=true&theme=dark&hide_border=true)
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=Davide116&show_icons=true&theme=dark&hide_border=true) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davide116&theme=dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davide116&theme=dark" alt="DavideBot" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DqviDev&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DqviDev&theme=dark" alt="" /></p>
 
 ---
 
@@ -63,7 +63,7 @@
 ---
 
 ## ```SE MI VUOI BENE,  FAI UNA PICCOLA DONAZIONE ```
-[`paypal > davide116 > se non doni ti si banna il numero`](https://www.paypal.me/dadoilpazzurdo)
+[`paypal > DqviDev > se non doni niente biscotto`](https://www.paypal.me/itsdadooo)
 
 ---
 
