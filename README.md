@@ -63,11 +63,11 @@
 ---
 
 ## ```SE MI VUOI BENE,  FAI UNA PICCOLA DONAZIONE ```
-[`paypal > DqviDev > se non doni niente biscotto`](https://www.paypal.me/itsdadooo)
+[`paypal > DqviDev > se mi vuoi bene dona grazie`](https://www.paypal.me/itsdadooo)
 
 ---
 
-![Snake animation](https://github.com/Davide116/Davide116/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DqviDev/DqviDev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf91a4&height=120&section=footer"/>
