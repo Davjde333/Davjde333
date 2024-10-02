@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=lf95b9&height=100&section=header"/>
-
 <p align="center">
 <a href="https://whatsapp.com/channel/0029VaFX9IZIyPtQ7j8Zkt0F"><img title="Author" src="https://img.shields.io/badge/Canale Ufficiale-black?style=for-the-badge&logo=whatsApp"></a>
 
@@ -81,7 +79,4 @@
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="UFXMRNHNJVDL2" />
 <input type="image" src="https://pics.paypal.com/00/s/MWMwMmM4MGUtZTE1OC00NDVjLTk1M2ItMDljMjM1YzUwZDIw/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-
-   
-<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
 </form>
