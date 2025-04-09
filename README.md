@@ -5,11 +5,11 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Davjde333}/count.svg" alt="Davjde333 :: Visitor's Count" /></p>
 
 <p align="center">
-<a href="https://github.com/Davjde333/followers"><img title="Followers" src="https://img.shields.io/github/followers/Davide116?color=red&style=flat-square"></a>
-<a href="https://github.com/Davjde333/Davide116/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davide116?color=blue&style=flat-square"></a>
-<a href="https://github.com/Davjde333/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Davide116/DavBot?color=red&style=flat-square"></a>
-<a href="https://komarev.com/ghpvc/?username=Davide116&color=blue&style=flat-square&label=Repo+Visual"><img src="https://komarev.com/ghpvc/?username=Davide116&color=blue&style=flat-square&label=Repo+Visual" />
-<a href="https://github.com/Davjde333/Turbo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Davide116/Davide116?label=Watcher'srepo&color=blue&style=flat-square"></a>
+<a href="https://github.com/Davjde333/followers"><img title="Followers" src="https://img.shields.io/github/followers/Davjde333?color=red&style=flat-square"></a>
+<a href="https://github.com/Davjde333/Davide116/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davjde333?color=blue&style=flat-square"></a>
+<a href="https://github.com/Davjde333/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Davjde333/DavBot?color=red&style=flat-square"></a>
+<a href="https://komarev.com/ghpvc/?username=Davide116&color=blue&style=flat-square&label=Repo+Visual"><img src="https://komarev.com/ghpvc/?username=Davjde333&color=blue&style=flat-square&label=Repo+Visual" />
+<a href="https://github.com/Davjde333/Turbo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Davjde333/Davjde333?label=Watcher'srepo&color=blue&style=flat-square"></a>
 <a href="https://github.com/Davjde333/DavideBot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Davjde333/AyGemuy/"><img title="Size" src="https://img.shields.io/github/repo-size/Davjde333/DavideBot?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDavjde333%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
